@@ -1,6 +1,6 @@
 # Calculadora-Distribuida-RMI-JAVA
 
-## O Projeto consiste em uma 4 aplicações:
+## O Projeto consiste em 4 aplicações:
 
 ### Aplicação Cliente 
 - Envia solicitações de calculos ao Servidor Master, através de um protocolo simple de troca de mensagens via Socket. 
